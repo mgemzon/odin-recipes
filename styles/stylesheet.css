@@ -1,0 +1,15 @@
+* {
+    background-color: darkslategrey;
+}
+
+.title {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: gold;
+}
+
+li, a, p {
+    color: beige;
+}
