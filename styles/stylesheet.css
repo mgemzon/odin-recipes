@@ -1,6 +1,7 @@
 * {
     background-color: darkslategrey;
     font-family: 'Courier New', Arial, sans-serif;
+    box-sizing: border-box;
 }
 
 .card {
