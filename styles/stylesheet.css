@@ -35,7 +35,8 @@ li, a, p {
     display: block;
 }
 
-.recipe-img {
+.recipe-image {
     display: block;
+    height: 400px;
     margin: 0 auto;
 }
